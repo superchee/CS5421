@@ -1,0 +1,1 @@
+﻿sum(/warehouses/warehouse[address/country = 'Indonesia']/items/item[name = 'Sunscreen']/qty/text())

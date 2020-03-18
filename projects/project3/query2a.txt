@@ -1,0 +1,1 @@
+﻿/warehouses/warehouse[address/country = 'Singapore']/items/item[qty > 975]
